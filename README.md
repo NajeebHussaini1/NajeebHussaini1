@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 👋 I'm a senior software engineer specializing i
 ## About Me
 
 - 💻 Senior Software Engineer with expertise in Java Spring microservices.
-- 🌱 Experienced with Angular for front-end development.
+- 🌱 Experienced with React & Angular for front-end development.
 - ☁️ Familiar with AWS services for cloud computing.
 - 🎓 Bachelor's degree in Computer Science.
 - 📫 You can reach me at [najeeb.s.hussaini@gmail.com](mailto:najeeb.s.hussaini@gmail.com).
